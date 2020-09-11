@@ -1,0 +1,15 @@
+name: tensor
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - numpy
+  - seaborn
+  - tensorflow
+  - wandb
+
